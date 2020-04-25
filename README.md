@@ -2,7 +2,8 @@
 
 
 The data provided in this repository are described in the following article:
-- Charles Truong, Rémi Barrois-Müller, Thomas Moreau, Clément Provost, Aliénor Vienne-Jumeau, Albane Moreau, Pierre-Paul Vidal, Nicolas Vayatis, Stéphane Buffat, Alain Yelnik, Damien Ricard, and Laurent Oudre, _A Data Set for the Study of Human Locomotion with Inertial Measurements Units_, Image Processing On Line, 9 (2019), pp. 381–390. [https://doi.org/10.5201/ipol.2019.265](https://doi.org/10.5201/ipol.2019.265)
+- Truong, C., Barrois-Müller, R., Moreau, T., Provost, C., Vienne-Jumeau, A., Moreau, A., Vidal, P.-P., Vayatis, N., Buffat, S., Yelnik, A., Ricard, D., & Oudre, L. (2019). A data set for the study of human locomotion with inertial measurements units. Image Processing On Line (IPOL), 9. [[abstract]](https://deepcharles.github.io/publication/ipol-data-2019) [[doi]](https://doi.org/10.5201/ipol.2019.265) [[pdf]](http://deepcharles.github.io/files/ipol-walk-data-2019.pdf) [[online demo]](http://ipolcore.ipol.im/demo/clientApp/demo.html?id=265)
+
 
 Please cite this article whenever you want to make a reference to this data set.
 
